@@ -1,0 +1,9 @@
+/Users/pranav/Documents/Xamarin apps/cameraTest/cameraTest/bin/Debug/netstandard2.0/cameraTest.deps.json
+/Users/pranav/Documents/Xamarin apps/cameraTest/cameraTest/bin/Debug/netstandard2.0/cameraTest.dll
+/Users/pranav/Documents/Xamarin apps/cameraTest/cameraTest/bin/Debug/netstandard2.0/cameraTest.pdb
+/Users/pranav/Documents/Xamarin apps/cameraTest/cameraTest/obj/Debug/netstandard2.0/cameraTest.csprojResolveAssemblyReference.cache
+/Users/pranav/Documents/Xamarin apps/cameraTest/cameraTest/obj/Debug/netstandard2.0/cameraTest.csproj.CoreCompileInputs.cache
+/Users/pranav/Documents/Xamarin apps/cameraTest/cameraTest/obj/Debug/netstandard2.0/cameraTest.AssemblyInfoInputs.cache
+/Users/pranav/Documents/Xamarin apps/cameraTest/cameraTest/obj/Debug/netstandard2.0/cameraTest.AssemblyInfo.cs
+/Users/pranav/Documents/Xamarin apps/cameraTest/cameraTest/obj/Debug/netstandard2.0/cameraTest.dll
+/Users/pranav/Documents/Xamarin apps/cameraTest/cameraTest/obj/Debug/netstandard2.0/cameraTest.pdb

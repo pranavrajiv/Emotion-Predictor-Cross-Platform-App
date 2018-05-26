@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:cameraTest" x:Class="cameraTest.MainPage">
+
+<Grid>
+    <Grid.RowDefinitions>
+        <RowDefinition Height="*" />
+         <RowDefinition Height="Auto" />
+        
+    </Grid.RowDefinitions>
+
+      <Label x:Name="Labb" Text="Hello" XAlign="Center" YAlign="End"/>
+    <Image x:Name="PhotoImage" Source="/Users/pranav/Desktop/angry.jpg"/>
+         
+    <Button x:Name="CameraButton" Text="+" Grid.Row="1" Image="/Users/pranav/Desktop/b.png" HeightRequest="100"/>
+   
+</Grid>
+
+</ContentPage>
